@@ -3,10 +3,9 @@ I'm a **Gameplay Programmer** specialized in Unity, focused on combat systems, A
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
-- 💼 Currently developing an ARPG prototype.
+- 💼 I developed an ARPG prototype.
 - 🧠 Influenced by stoic philosophy: focused on discipline, responsibility, and continuous improvement.
-- ⚙️ I enjoy building data-driven systems using ScriptableObjects and event-driven patterns.  
-- 🎯 Focused on improving AI coordination and combat responsiveness.  
+- 🎯 I aim to create gameplay experiences that feel fun to play.
 - 🚀 Looking for opportunities as a Gameplay Programmer.
 
 ## 🎮 ARPG prototype 
