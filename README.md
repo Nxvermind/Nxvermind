@@ -4,10 +4,10 @@ I'm a **Gameplay Programmer** specialized in Unity, focused on combat systems, A
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
 - 💼 Currently developing an ARPG prototype.
-- 🧠 Interested in gameplay architecture, clean code, and scalable system design.  
+- 🧠 Influenced by stoic philosophy: focused on discipline, responsibility, and continuous improvement.
 - ⚙️ I enjoy building data-driven systems using ScriptableObjects and event-driven patterns.  
 - 🎯 Focused on improving AI coordination and combat responsiveness.  
-- 🚀 Looking for opportunities as a Gameplay Programmer (Unity).
+- 🚀 Looking for opportunities as a Gameplay Programmer.
 
 ## 🎮 ARPG prototype 
 [![Play ARPG Prototype](https://img.shields.io/badge/Play%20on-itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://nxvermind.itch.io/arpg-prototype)
