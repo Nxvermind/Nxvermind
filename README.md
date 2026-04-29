@@ -15,5 +15,11 @@ I'm a **Gameplay Programmer** specialized in Unity, focused on combat systems, A
 ## 💻 ARPG prototype - Code & Systems 
 [![GitHub Repo](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nxvermind/ARPG_Prototype)
 
+## ⚙️ Tech Stack
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Git](https://img.shields.io/badge/Git-CA4245?style=for-the-badge&logo=git&logoColor=white)
+
 ## 🤝 Connect with me
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/leonardo-chambi-ab255a394/)
