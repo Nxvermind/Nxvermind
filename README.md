@@ -5,7 +5,7 @@ I'm a **Gameplay Programmer** specialized in Unity, focused on combat systems, A
 
 - 💼 I developed an ARPG prototype.
 - 🧠 Influenced by stoic philosophy: focused on discipline, responsibility, and continuous improvement.
-- 🎯 I aim to create gameplay experiences that feel fun to play.
+- 🎯 I focus on creating responsive, readable, and satisfying gameplay systems.
 - 🚀 Looking for opportunities as a Gameplay Programmer.
 
 ## 🎮 ARPG prototype 
