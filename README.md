@@ -21,4 +21,4 @@ I'm a **Gameplay Programmer** specialized in Unity, focused on combat systems, A
 ![Git](https://img.shields.io/badge/Git-CA4245?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🤝 Connect with me
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/leonardo-chambi-03258027b/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/leonardo-chambi-ab255a394/)
