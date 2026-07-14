@@ -27,4 +27,4 @@ I'm a **Gameplay Programmer** specialized in Unity, focused on combat systems, A
 
 ## 🤝 Connect with me
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/leonardo-chambi-ab255a394/)
-[<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:leonardo.pacheco.dev@gmail.com)
+[<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:leonardo.pacheco.dev@gmail.com)
