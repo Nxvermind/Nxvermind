@@ -8,7 +8,6 @@ I'm a **Gameplay Programmer** specialized in Unity, focused on combat systems, A
 - 🧠 Influenced by stoic philosophy: focused on discipline, responsibility, and continuous improvement.
 - 🎯 I focus on creating responsive, readable, and satisfying gameplay systems.
 - 🚀 Looking for opportunities as a Gameplay Programmer.
-- 📫 Reach out to me at: leonardo.pacheco.dev@gmail.com
 
 ## 🎮 ARPG Prototype 
 [![Play ARPG Prototype](https://img.shields.io/badge/Play%20on-itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://nxvermind.itch.io/arpg-prototype)
@@ -28,3 +27,4 @@ I'm a **Gameplay Programmer** specialized in Unity, focused on combat systems, A
 
 ## 🤝 Connect with me
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/leonardo-chambi-ab255a394/)
+[<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:leonardo.pacheco.dev@gmail.com)
